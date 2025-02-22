@@ -21,6 +21,21 @@ Get ready to have your mind blown by the possibilities of a future powered by ro
 
 ---
 
+- [Room-Temperature Superconductors: A Revolution in Energy \& Technology!](#room-temperature-superconductors-a-revolution-in-energy--technology)
+  - [Room-Temperature Superconductors: Materials, Theory, and Applications](#room-temperature-superconductors-materials-theory-and-applications)
+  - [Room-Temperature Superconductivity: Ethical, Technological, and Geopolitical Implications](#room-temperature-superconductivity-ethical-technological-and-geopolitical-implications)
+  - [Room-Temperature Superconductivity: Risks and Rewards](#room-temperature-superconductivity-risks-and-rewards)
+  - [Room-Temperature Superconductivity: A Comprehensive Guide](#room-temperature-superconductivity-a-comprehensive-guide)
+  - [Room-Temperature Superconductors: Financial Opportunities and Risks](#room-temperature-superconductors-financial-opportunities-and-risks)
+  - [Room-Temperature Superconductivity: Promise and Peril](#room-temperature-superconductivity-promise-and-peril)
+  - [Room-Temperature Superconductors: Benefits, Risks, and Challenges](#room-temperature-superconductors-benefits-risks-and-challenges)
+  - [Room-Temperature Superconductivity: Societal Impact](#room-temperature-superconductivity-societal-impact)
+  - [Room-Temperature Superconductivity Research](#room-temperature-superconductivity-research)
+  - [Room-Temperature Superconductivity: Challenges and Promises](#room-temperature-superconductivity-challenges-and-promises)
+
+
+---
+
 ## Room-Temperature Superconductors: Materials, Theory, and Applications
 
 Factors Influencing High Critical Temperatures in Conventional Superconductors
